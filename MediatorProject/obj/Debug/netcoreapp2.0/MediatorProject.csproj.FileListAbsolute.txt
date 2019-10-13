@@ -1,0 +1,11 @@
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\bin\Debug\netcoreapp2.0\MediatorProject.deps.json
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\bin\Debug\netcoreapp2.0\MediatorProject.runtimeconfig.json
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\bin\Debug\netcoreapp2.0\MediatorProject.runtimeconfig.dev.json
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\bin\Debug\netcoreapp2.0\MediatorProject.dll
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\bin\Debug\netcoreapp2.0\MediatorProject.pdb
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.csproj.CoreCompileInputs.cache
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.AssemblyInfoInputs.cache
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.AssemblyInfo.cs
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.dll
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.pdb
+C:\Users\WalterMaxim\Documents\Visual Studio 2017\Projects\MediatorProject\MediatorProject\obj\Debug\netcoreapp2.0\MediatorProject.csprojResolveAssemblyReference.cache
